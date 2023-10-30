@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import pageobject.OrderPage;
+
 import java.util.concurrent.TimeUnit;
 import static org.hamcrest.CoreMatchers.startsWith;
 
